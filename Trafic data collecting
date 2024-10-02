@@ -1,0 +1,7 @@
+install.packages("dplyr") 
+
+install.packages("magrittr") 
+
+# Load necessary packages
+
+library(magrittr) 
